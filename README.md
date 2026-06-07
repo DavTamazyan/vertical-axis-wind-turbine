@@ -6,11 +6,17 @@ This project contains a simplified SolidWorks CAD model of a Savonius vertical-a
 
 The turbine uses a vertical-axis Savonius-style rotor, which is suitable for low-speed, turbulent, and changing wind directions. These conditions are common near roads, highways, tunnels, medians, and other transportation corridors where airflow is not always steady or aligned in one direction. The design focuses on simplicity, manufacturability, and clear mechanical representation rather than high aerodynamic optimization.
 
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/e4691d22-7269-4977-a719-6531a0105708" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/bfcaf7ce-eab6-499c-a42f-338585837eea" />
+
+
 ## Project Motivation
 
-Roads and highways experience continuous airflow from passing vehicles, especially in areas with frequent traffic. This moving air contains usable kinetic energy that can potentially be harvested using small wind turbines placed near the roadside, road dividers, or highway barriers.
+Roads and highways experience continuous airflow from passing vehicles, especially in areas with frequent traffic. This moving air contains usable kinetic energy that can potentially be harvested using small wind turbines placed near the roadside, road dividers, or highway barriers. This idea has huge potential for implementation in metro spaces underground, for logical reasons. 
 
 This CAD model explores the mechanical structure of a simple vertical-axis turbine that could be used as a conceptual prototype for roadside wind energy harvesting. The goal is to create a clean digital version of the physical prototype for visualization, documentation, future testing, and design improvement.
+
+The project was awarded in multiple science and entrepreneurship competitions. 
 
 ## Design Purpose
 
